@@ -14,8 +14,6 @@
   	<module>practice03</module>
   	<module>practice04</module>
   	<module>practice05</module>
-  	<module>chap03</module>
-  	<module>chap04</module>
-  	<module>net</module>
+  	
   </modules>
 </project>
